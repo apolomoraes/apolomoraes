@@ -16,7 +16,7 @@
   
 ![Snake animation](https://github.com/apolomoraes/apolomoraes/blob/output/github-contribution-grid-snake.svg)
   
-## Contacts:
+## Contacts
 
 <div>
 <a href="https://instagram.com/apolo_moraes" target="_blank" ><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" ></a>

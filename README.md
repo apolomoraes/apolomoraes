@@ -10,5 +10,5 @@
 
 <div>
 <a href="https://instagram.com/apolo_moraes" target="_blank" ><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" ></a>
-<a href="https://www.linkedin.com/in/apolo-moraes-133263231" target="_blank" ><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>   
+<a href="https://www.linkedin.com/in/apolomoraes" target="_blank" ><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>   
 </div>

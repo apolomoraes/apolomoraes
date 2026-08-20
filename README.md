@@ -1,8 +1,6 @@
-# 👋 Hello! Welcome to my Github profile.
+### 👋 Hi, I'm Apolo!
 
-## I'm Apolo!
-
-- 🌱 I'm currently studying web development
+- 🚀 Full Stack Developer
 
 ## 🔨 Tools and Technologies
 
